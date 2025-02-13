@@ -22,7 +22,7 @@ repository               : "Maruko1337/Maruko1337.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "corped.png"
+  avatar           : "profile.png"
   name             : "Yifan Qu
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
