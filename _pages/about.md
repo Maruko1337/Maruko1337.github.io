@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to My Personal Website 👋
 
 I am **Yifan Qu**, a researcher in **graph neural networks, numerical methods, and scientific computing**. My work focuses on developing efficient computational methods for **PDE-based models, high-performance numerical algorithms, and image processing**. 
 
