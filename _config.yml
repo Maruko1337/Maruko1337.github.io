@@ -25,7 +25,9 @@ author:
   avatar           : "corped.png"
   name             : "Yifan Qu"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hiii! I am a researcher with a strong background in graph neural networks, numerical methods, and scientific computing. I have worked on high-performance numerical algorithms, finite element methods, and image processing during research assistantships at the University of Waterloo and the Chinese Academy of Sciences. My work has been applied to river ice classification, underwater image restoration, and deep learning for PDE-based models.
+I am passionate about computational mathematics, mathematical modeling, and high-performance computing, with a keen interest in applications in scientific computing and mathematical software development. I have presented research at Geoinformatics 2024 and contributed to open-source numerical methods for PDEs.
+Outside of research, I enjoys piano, ballet, and figure skating, and am always eager to explore interdisciplinary collaborations."
   location         : "Waterloo, Ontario, Canada"
   employer         : "University of Waterloo"
   uri              : # URL
