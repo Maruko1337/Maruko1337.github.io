@@ -22,7 +22,7 @@ repository               : "Maruko1337/Maruko1337.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "corped.png"
+  avatar           : "square.png"
   name             : "Yifan Qu"
   pronouns         : "she/her"  
   bio              : "Hiii! I am passionate about computational mathematics, mathematical modeling, and deep neural networks, with a keen interest in applications in scientific computing and mathematical software development.
