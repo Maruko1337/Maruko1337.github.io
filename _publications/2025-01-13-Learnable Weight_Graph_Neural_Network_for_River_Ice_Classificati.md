@@ -1,7 +1,7 @@
 ---
 title: "Learnable Weight Graph Neural Network for River Ice Classification"
-collection: Conference Papers
-category: Conference Papers
+collection: Publication
+category: conferences
 permalink: /publication/2025-01-13-Learnable Weight_Graph_Neural_Network_for_River_Ice_Classificati
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-13
