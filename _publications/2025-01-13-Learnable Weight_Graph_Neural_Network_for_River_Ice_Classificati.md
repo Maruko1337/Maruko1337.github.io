@@ -3,7 +3,7 @@ title: "Learnable Weight Graph Neural Network for River Ice Classification"
 collection: Publication
 category: conferences
 permalink: /publication/2025-01-13-Learnable Weight_Graph_Neural_Network_for_River_Ice_Classificati
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper proposed a model incorporating a graph neural network (GNN) to distinguish between ice and water from SAR images on the winters of 2017–2021 with emphasis on the Beauharnois Canal and Lake St Lawrence regions of the Saint Lawrence River.'
 date: 2025-01-13
 venue: 'Journal 1'
 paperurl: 'https://www.mdpi.com/2504-3900/110/1/30'
